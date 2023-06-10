@@ -1,5 +1,5 @@
 # Chrome Zephyr BZR-005GS
-[Assembly](https://www.youtube.com/watch?v=089fClYfAjI)
+[Assembly](https://www.youtube.com/watch?v=089fClYfAjI) \
 Assembled
 ![Assembled](https://raw.githubusercontent.com/chent7/battlebdaman/master/Battle%20B-Daman%20Zero%20Battle%20Mini-B/Chrome%20Zephyr%20BZR-005GS/IMG_20230611_003425041.jpg)Box
 ![Box](https://raw.githubusercontent.com/chent7/battlebdaman/master/Battle%20B-Daman%20Zero%20Battle%20Mini-B/Chrome%20Zephyr%20BZR-005GS/IMG_20230610_0003.jpg)Manual
